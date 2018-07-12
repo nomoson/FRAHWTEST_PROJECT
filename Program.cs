@@ -65,6 +65,7 @@ namespace PeakSearch
                 d = fcn.deriv(y);
             }
             //
+            // TEST from HENRY
             //foreach (float j in d)
             //{
             //    System.Console.WriteLine(j);
