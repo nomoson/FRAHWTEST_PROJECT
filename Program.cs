@@ -1,5 +1,4 @@
-﻿// Jay [7/12]
-using System;
+﻿using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
@@ -66,7 +65,6 @@ namespace PeakSearch
                 d = fcn.deriv(y);
             }
             //
-            // TEST from HENRY
             //foreach (float j in d)
             //{
             //    System.Console.WriteLine(j);
